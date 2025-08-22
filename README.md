@@ -2,7 +2,7 @@
 
 ### Description
 
-This repository provides a comprehensive analysis of global emissions, exploring the interplay between CO₂ output, economic growth, population trends, and energy consumption. Through a series of Jupyter Notebooks, it offers both aggregate and per-capita perspectives, highlighting key patterns and relationships that inform our understanding of environmental impact and sustainability.
+This repository provides a comprehensive analysis of global emissions, exploring the interplay between CO₂ output, economic growth, population trends, and energy consumption. The analyses are based on a dataset compiled and curated by the repository author, available [here](https://github.com/lobosi/energy_dataset). Through a series of Jupyter Notebooks, the repository offers both aggregate and per-capita perspectives, highlighting key patterns and relationships that inform our understanding of environmental impact and sustainability.
 
 ### Content
 
